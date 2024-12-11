@@ -1,5 +1,3 @@
-### Hi, I'm Nisala! 
-
 <h1 align="center">Hi 👋, I'm Nisala!</h1>
 <h3 align="center">A passionate Software Engineer and An Artist from Sri Lanka</h3>
 
