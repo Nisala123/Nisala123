@@ -1,4 +1,4 @@
-<h2>Hi 👋, I'm Nisala!</h2>
+<h2>Hi 👋, &nbsp; I'm Nisala!</h2>
 <h3>A passionate Software Engineer and A Portrait Artist from Sri Lanka</h3>
 
 🌱 I’m currently learning the **MERN Stack** <br>
